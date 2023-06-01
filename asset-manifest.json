@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Viki/static/css/main.7da07f3f.css",
-    "main.js": "/Viki/static/js/main.4e8d7a07.js",
+    "main.css": "/Viki/static/css/main.678f09c9.css",
+    "main.js": "/Viki/static/js/main.f0d4329d.js",
+    "static/media/people.png": "/Viki/static/media/people.21fd695a1ef9be24f285.png",
     "static/media/picture1.webp": "/Viki/static/media/picture1.aebeb6566790b490fe7e.webp",
     "static/media/logo.png": "/Viki/static/media/logo.1b25db7b919d2356b020.png",
     "index.html": "/Viki/index.html",
-    "main.7da07f3f.css.map": "/Viki/static/css/main.7da07f3f.css.map",
-    "main.4e8d7a07.js.map": "/Viki/static/js/main.4e8d7a07.js.map"
+    "main.678f09c9.css.map": "/Viki/static/css/main.678f09c9.css.map",
+    "main.f0d4329d.js.map": "/Viki/static/js/main.f0d4329d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7da07f3f.css",
-    "static/js/main.4e8d7a07.js"
+    "static/css/main.678f09c9.css",
+    "static/js/main.f0d4329d.js"
   ]
 }
