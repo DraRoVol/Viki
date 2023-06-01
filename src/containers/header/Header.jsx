@@ -1,4 +1,5 @@
 import React from "react";
+import people from '../../assets/people.png'
 import picture from '../../assets/picture1.webp'
 import "./header.css";
 
@@ -18,8 +19,8 @@ const Header = () => {
           <button type="button">Get Started</button>
         </div>
         <div className='gem__header-content__people'>
-          <img src='' alt="people" />
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+          <img src={people} alt="people" />
+          <p>Викуха хухрюха</p>
         </div>
         <div className='gem__header-image'>
           <img src={picture} alt='illustration' />
