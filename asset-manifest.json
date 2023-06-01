@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Viki/static/css/main.7da07f3f.css",
+    "main.js": "/Viki/static/js/main.7c8afca3.js",
+    "static/media/logo.png": "/Viki/static/media/logo.1b25db7b919d2356b020.png",
+    "index.html": "/Viki/index.html",
+    "main.7da07f3f.css.map": "/Viki/static/css/main.7da07f3f.css.map",
+    "main.7c8afca3.js.map": "/Viki/static/js/main.7c8afca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da07f3f.css",
+    "static/js/main.7c8afca3.js"
+  ]
+}
