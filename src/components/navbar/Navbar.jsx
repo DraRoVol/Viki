@@ -6,7 +6,7 @@ import "./navbar.css";
 const Menu = () => (
   <>
     <p><a href="#home">Home</a></p>
-    <p><a href="#wviki">What Viki</a></p>
+    <p><a href="#viki">What Viki</a></p>
     <p><a href="#possibility">Open AI</a></p>
     <p><a href="#features">Case Studies</a></p>
     <p><a href="#blog">Library</a></p>
@@ -24,7 +24,7 @@ const Navbar = () => {
         </div>
         <div className="gem__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wviki">What Viki</a></p>
+          <p><a href="#viki">What Viki</a></p>
           <p><a href="#possibility">Open AI</a></p>
           <p><a href="#features">Case Studies</a></p>
           <p><a href="#blog">Library</a></p>

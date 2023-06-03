@@ -1,6 +1,6 @@
 import React from "react";
-import people from '../../assets/people.png'
-import picture from '../../assets/picture1.webp'
+import people from "../../assets/people.png";
+import picture from "../../assets/picture1.webp";
 import "./header.css";
 
 const Header = () => {
@@ -18,13 +18,13 @@ const Header = () => {
           <input type="email" placeholder="Your Email Address" />
           <button type="button">Get Started</button>
         </div>
-        <div className='gem__header-content__people'>
+        <div className="gem__header-content__people">
           <img src={people} alt="people" />
           <p>Викуха хухрюха</p>
         </div>
-        <div className='gem__header-image'>
-          <img src={picture} alt='illustration' />
-        </div>
+      </div>
+      <div className="gem__header-image">
+        <img src={picture} alt="illustration" />
       </div>
     </div>
   );
